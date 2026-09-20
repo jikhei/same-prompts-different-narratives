@@ -1,0 +1,229 @@
+story_id,prompt_id,model,RE,CH,EM,SU,EG,CX,score_source
+0,0,Human,3.7,3.7,2.3,2.3,3.3,2.7,HANNA mean of three ratings
+1,1,Human,5.0,4.7,4.0,3.7,3.7,4.0,HANNA mean of three ratings
+4,4,Human,4.7,5.0,3.0,4.7,3.7,3.7,HANNA mean of three ratings
+5,5,Human,5.0,5.0,3.3,3.7,4.0,4.7,HANNA mean of three ratings
+6,6,Human,3.7,3.3,2.0,2.7,2.7,3.3,HANNA mean of three ratings
+9,9,Human,4.0,4.3,3.3,4.3,4.3,3.3,HANNA mean of three ratings
+10,10,Human,4.3,4.0,3.3,2.0,3.3,2.7,HANNA mean of three ratings
+13,13,Human,2.7,3.7,3.7,2.3,4.0,3.3,HANNA mean of three ratings
+14,14,Human,5.0,4.7,2.7,4.0,4.0,4.3,HANNA mean of three ratings
+17,17,Human,4.0,4.3,2.7,2.7,3.7,3.0,HANNA mean of three ratings
+18,18,Human,5.0,5.0,3.7,3.7,4.3,4.3,HANNA mean of three ratings
+19,19,Human,4.0,3.3,3.0,3.0,3.0,3.0,HANNA mean of three ratings
+22,22,Human,4.0,5.0,3.7,4.0,4.7,3.7,HANNA mean of three ratings
+23,23,Human,3.0,3.3,2.0,3.7,2.7,2.7,HANNA mean of three ratings
+26,26,Human,3.0,3.7,3.0,4.3,4.0,3.7,HANNA mean of three ratings
+27,27,Human,3.3,4.0,2.3,2.7,3.3,3.3,HANNA mean of three ratings
+30,30,Human,3.3,3.7,1.7,1.7,3.0,2.7,HANNA mean of three ratings
+32,32,Human,5.0,5.0,3.7,2.3,4.0,2.7,HANNA mean of three ratings
+34,34,Human,4.7,4.7,4.0,2.7,4.7,4.0,HANNA mean of three ratings
+35,35,Human,4.3,4.0,2.7,2.7,3.3,3.0,HANNA mean of three ratings
+36,36,Human,5.0,5.0,2.7,4.3,4.3,4.3,HANNA mean of three ratings
+40,40,Human,4.0,4.3,4.0,3.7,4.0,4.0,HANNA mean of three ratings
+44,44,Human,2.0,4.0,1.7,3.3,2.7,3.0,HANNA mean of three ratings
+49,49,Human,4.7,4.0,1.7,1.7,3.7,1.7,HANNA mean of three ratings
+51,51,Human,4.3,4.3,3.0,3.0,4.0,3.7,HANNA mean of three ratings
+53,53,Human,5.0,5.0,4.0,4.0,4.3,4.0,HANNA mean of three ratings
+56,56,Human,4.0,4.7,2.7,3.7,4.3,4.0,HANNA mean of three ratings
+59,59,Human,4.0,5.0,4.3,3.0,5.0,4.7,HANNA mean of three ratings
+62,62,Human,5.0,5.0,3.3,3.7,5.0,4.7,HANNA mean of three ratings
+63,63,Human,3.3,3.0,1.7,2.3,2.7,2.7,HANNA mean of three ratings
+65,65,Human,5.0,5.0,2.0,4.0,5.0,4.7,HANNA mean of three ratings
+67,67,Human,5.0,4.7,3.3,3.7,4.0,3.7,HANNA mean of three ratings
+69,69,Human,4.3,4.7,2.7,2.7,4.0,3.3,HANNA mean of three ratings
+80,80,Human,5.0,4.7,3.0,4.0,4.3,4.0,HANNA mean of three ratings
+81,81,Human,5.0,4.7,4.0,3.7,4.3,3.7,HANNA mean of three ratings
+87,87,Human,4.0,4.7,4.7,4.3,5.0,4.7,HANNA mean of three ratings
+89,89,Human,3.0,4.3,3.7,3.3,3.7,3.7,HANNA mean of three ratings
+91,91,Human,4.0,4.3,2.0,2.0,3.0,3.3,HANNA mean of three ratings
+92,92,Human,3.7,3.3,3.0,3.0,3.0,3.0,HANNA mean of three ratings
+93,93,Human,3.7,4.7,3.0,2.3,4.0,3.0,HANNA mean of three ratings
+94,94,Human,5.0,4.7,2.0,3.3,4.0,3.7,HANNA mean of three ratings
+384,0,GPT-2 (tag),3.0,3.7,2.3,1.7,3.7,2.7,HANNA mean of three ratings
+385,1,GPT-2 (tag),3.3,3.0,3.3,1.3,2.7,3.3,HANNA mean of three ratings
+388,4,GPT-2 (tag),2.7,3.0,2.3,2.0,2.7,2.0,HANNA mean of three ratings
+389,5,GPT-2 (tag),3.0,3.3,3.0,2.3,3.3,2.7,HANNA mean of three ratings
+390,6,GPT-2 (tag),3.0,3.0,2.0,2.0,2.7,2.0,HANNA mean of three ratings
+393,9,GPT-2 (tag),2.0,3.0,2.7,2.3,3.7,2.7,HANNA mean of three ratings
+394,10,GPT-2 (tag),2.3,3.7,2.7,2.7,3.0,2.7,HANNA mean of three ratings
+397,13,GPT-2 (tag),2.0,3.0,2.0,2.3,2.7,2.7,HANNA mean of three ratings
+398,14,GPT-2 (tag),3.0,3.7,3.0,2.0,3.7,3.3,HANNA mean of three ratings
+402,18,GPT-2 (tag),3.3,3.0,1.7,1.7,3.0,3.0,HANNA mean of three ratings
+403,19,GPT-2 (tag),3.7,3.7,2.3,2.3,3.7,2.7,HANNA mean of three ratings
+406,22,GPT-2 (tag),3.0,3.7,4.0,2.7,3.7,2.3,HANNA mean of three ratings
+407,23,GPT-2 (tag),3.0,3.3,3.0,2.0,3.0,3.3,HANNA mean of three ratings
+411,27,GPT-2 (tag),2.7,3.3,2.7,1.3,3.3,2.7,HANNA mean of three ratings
+414,30,GPT-2 (tag),2.3,3.3,2.0,1.7,2.3,2.7,HANNA mean of three ratings
+416,32,GPT-2 (tag),2.0,3.3,2.7,1.7,3.0,2.7,HANNA mean of three ratings
+418,34,GPT-2 (tag),4.0,4.0,3.3,3.0,3.7,3.7,HANNA mean of three ratings
+419,35,GPT-2 (tag),2.7,3.7,2.3,2.0,2.3,2.0,HANNA mean of three ratings
+420,36,GPT-2 (tag),3.0,3.3,3.0,2.3,3.0,2.7,HANNA mean of three ratings
+424,40,GPT-2 (tag),1.7,3.0,2.3,2.3,3.0,3.0,HANNA mean of three ratings
+437,53,GPT-2 (tag),1.3,3.3,2.7,2.7,2.3,2.7,HANNA mean of three ratings
+440,56,GPT-2 (tag),4.0,3.7,2.3,3.0,3.7,3.7,HANNA mean of three ratings
+443,59,GPT-2 (tag),2.7,4.0,2.0,3.0,3.0,3.0,HANNA mean of three ratings
+447,63,GPT-2 (tag),4.3,4.0,2.3,3.3,4.3,4.3,HANNA mean of three ratings
+449,65,GPT-2 (tag),1.7,3.0,1.7,1.3,2.3,1.7,HANNA mean of three ratings
+451,67,GPT-2 (tag),2.3,3.3,2.0,2.3,2.7,2.7,HANNA mean of three ratings
+464,80,GPT-2 (tag),3.0,3.0,2.0,1.7,2.7,3.0,HANNA mean of three ratings
+465,81,GPT-2 (tag),2.0,2.7,1.7,1.3,2.3,2.0,HANNA mean of three ratings
+471,87,GPT-2 (tag),2.7,3.7,3.0,3.0,2.7,3.7,HANNA mean of three ratings
+473,89,GPT-2 (tag),1.7,3.3,2.3,3.3,2.3,3.3,HANNA mean of three ratings
+476,92,GPT-2 (tag),1.7,2.0,1.7,1.7,1.7,2.3,HANNA mean of three ratings
+478,94,GPT-2 (tag),3.0,4.0,2.3,2.7,3.3,3.3,HANNA mean of three ratings
+481,1,GPT-2,3.0,3.7,4.0,2.3,3.7,3.3,HANNA mean of three ratings
+486,6,GPT-2,3.3,3.7,2.7,3.0,3.0,2.7,HANNA mean of three ratings
+493,13,GPT-2,3.3,3.3,1.3,2.3,2.3,2.0,HANNA mean of three ratings
+494,14,GPT-2,1.3,2.7,2.3,1.7,2.0,2.7,HANNA mean of three ratings
+497,17,GPT-2,3.0,3.3,2.0,2.7,3.0,3.3,HANNA mean of three ratings
+498,18,GPT-2,2.0,3.7,2.3,3.0,3.7,3.3,HANNA mean of three ratings
+499,19,GPT-2,3.7,3.3,2.0,2.3,3.3,3.3,HANNA mean of three ratings
+503,23,GPT-2,2.0,2.7,2.3,1.7,2.3,2.0,HANNA mean of three ratings
+506,26,GPT-2,3.0,4.0,3.3,2.7,3.0,2.7,HANNA mean of three ratings
+507,27,GPT-2,3.0,4.0,4.0,3.3,3.3,3.3,HANNA mean of three ratings
+510,30,GPT-2,4.0,3.7,3.0,2.0,3.0,3.0,HANNA mean of three ratings
+512,32,GPT-2,3.3,3.3,2.7,2.0,2.7,2.3,HANNA mean of three ratings
+514,34,GPT-2,2.3,2.3,2.7,2.0,2.7,3.0,HANNA mean of three ratings
+515,35,GPT-2,3.0,4.0,2.0,2.7,3.0,3.0,HANNA mean of three ratings
+516,36,GPT-2,3.0,3.7,3.0,2.7,3.3,2.3,HANNA mean of three ratings
+520,40,GPT-2,2.3,3.3,3.3,2.0,3.3,2.7,HANNA mean of three ratings
+524,44,GPT-2,3.0,3.7,2.3,2.0,3.3,3.0,HANNA mean of three ratings
+529,49,GPT-2,3.3,2.7,1.7,1.3,2.7,1.3,HANNA mean of three ratings
+531,51,GPT-2,1.3,3.0,2.0,2.0,3.0,2.3,HANNA mean of three ratings
+533,53,GPT-2,3.0,3.0,1.0,1.7,1.7,1.7,HANNA mean of three ratings
+536,56,GPT-2,3.3,3.7,2.3,2.3,3.3,2.7,HANNA mean of three ratings
+542,62,GPT-2,2.3,3.0,2.3,2.0,2.3,2.3,HANNA mean of three ratings
+543,63,GPT-2,1.7,3.7,2.3,2.3,3.3,3.3,HANNA mean of three ratings
+545,65,GPT-2,3.0,2.3,2.3,1.3,2.3,2.3,HANNA mean of three ratings
+549,69,GPT-2,4.0,3.0,3.0,1.7,2.0,2.3,HANNA mean of three ratings
+560,80,GPT-2,3.0,3.3,1.7,1.7,2.7,2.7,HANNA mean of three ratings
+561,81,GPT-2,3.0,2.7,2.7,2.0,3.0,2.7,HANNA mean of three ratings
+567,87,GPT-2,1.3,3.3,1.7,2.7,3.0,2.7,HANNA mean of three ratings
+569,89,GPT-2,1.0,2.3,2.3,1.0,2.0,2.3,HANNA mean of three ratings
+571,91,GPT-2,1.3,2.3,2.7,2.0,2.7,2.7,HANNA mean of three ratings
+573,93,GPT-2,2.3,3.3,2.7,2.7,3.3,3.3,HANNA mean of three ratings
+574,94,GPT-2,3.0,3.3,2.3,2.7,3.0,3.0,HANNA mean of three ratings
+1100,0,Qwen2.5-7B,5.0,5.0,3.0,2.5,3.5,3.5,Mean of Rater A and Rater B
+1101,1,Qwen2.5-7B,4.5,4.5,5.0,3.0,4.5,2.5,Mean of Rater A and Rater B
+1102,4,Qwen2.5-7B,5.0,5.0,4.5,4.0,4.5,2.5,Mean of Rater A and Rater B
+1103,5,Qwen2.5-7B,4.0,4.0,3.5,4.5,4.0,4.0,Mean of Rater A and Rater B
+1104,6,Qwen2.5-7B,5.0,5.0,4.5,4.5,4.5,4.5,Mean of Rater A and Rater B
+1105,9,Qwen2.5-7B,4.0,4.5,2.5,4.0,4.0,3.5,Mean of Rater A and Rater B
+1106,10,Qwen2.5-7B,4.5,4.0,2.0,2.5,2.5,3.0,Mean of Rater A and Rater B
+1107,13,Qwen2.5-7B,4.5,4.5,4.5,4.0,4.0,4.0,Mean of Rater A and Rater B
+1108,14,Qwen2.5-7B,4.5,5.0,4.0,4.0,4.0,4.0,Mean of Rater A and Rater B
+1109,17,Qwen2.5-7B,5.0,4.5,4.5,3.0,4.5,3.5,Mean of Rater A and Rater B
+1110,18,Qwen2.5-7B,4.5,5.0,3.5,3.5,4.0,5.0,Mean of Rater A and Rater B
+1111,19,Qwen2.5-7B,5.0,5.0,5.0,5.0,5.0,5.0,Mean of Rater A and Rater B
+1112,22,Qwen2.5-7B,2.5,4.5,3.5,3.5,3.5,3.0,Mean of Rater A and Rater B
+1113,23,Qwen2.5-7B,5.0,5.0,3.0,4.5,4.5,4.0,Mean of Rater A and Rater B
+1114,26,Qwen2.5-7B,4.5,5.0,3.0,3.0,4.0,3.5,Mean of Rater A and Rater B
+1115,27,Qwen2.5-7B,5.0,5.0,2.5,3.0,4.0,4.0,Mean of Rater A and Rater B
+1116,30,Qwen2.5-7B,5.0,4.0,3.5,3.5,4.0,4.0,Mean of Rater A and Rater B
+1117,32,Qwen2.5-7B,5.0,4.5,4.5,4.5,4.5,5.0,Mean of Rater A and Rater B
+1118,34,Qwen2.5-7B,4.5,5.0,4.5,4.5,4.5,5.0,Mean of Rater A and Rater B
+1119,35,Qwen2.5-7B,5.0,4.5,4.0,4.0,3.5,3.5,Mean of Rater A and Rater B
+1120,36,Qwen2.5-7B,4.5,4.5,3.5,3.5,2.5,4.0,Mean of Rater A and Rater B
+1121,40,Qwen2.5-7B,5.0,5.0,4.5,3.0,4.0,4.0,Mean of Rater A and Rater B
+1122,44,Qwen2.5-7B,3.5,3.5,2.0,2.5,2.5,2.0,Mean of Rater A and Rater B
+1123,49,Qwen2.5-7B,5.0,5.0,4.5,4.0,4.0,3.0,Mean of Rater A and Rater B
+1124,51,Qwen2.5-7B,5.0,5.0,4.5,3.5,4.0,5.0,Mean of Rater A and Rater B
+1125,53,Qwen2.5-7B,5.0,4.0,2.5,3.5,3.0,4.0,Mean of Rater A and Rater B
+1126,56,Qwen2.5-7B,2.5,3.5,4.0,4.0,5.0,5.0,Mean of Rater A and Rater B
+1127,59,Qwen2.5-7B,5.0,5.0,5.0,4.5,4.5,4.5,Mean of Rater A and Rater B
+1128,62,Qwen2.5-7B,2.0,4.5,4.5,3.5,4.0,4.0,Mean of Rater A and Rater B
+1129,63,Qwen2.5-7B,3.0,4.0,2.5,2.5,2.5,3.0,Mean of Rater A and Rater B
+1130,65,Qwen2.5-7B,5.0,5.0,4.5,4.5,4.5,4.5,Mean of Rater A and Rater B
+1131,67,Qwen2.5-7B,5.0,5.0,4.5,4.5,5.0,5.0,Mean of Rater A and Rater B
+1132,69,Qwen2.5-7B,5.0,4.5,4.5,2.5,3.5,2.5,Mean of Rater A and Rater B
+1133,80,Qwen2.5-7B,5.0,5.0,4.5,5.0,5.0,5.0,Mean of Rater A and Rater B
+1134,81,Qwen2.5-7B,5.0,5.0,5.0,3.0,4.0,4.5,Mean of Rater A and Rater B
+1135,87,Qwen2.5-7B,5.0,4.5,3.0,2.5,2.5,3.0,Mean of Rater A and Rater B
+1136,89,Qwen2.5-7B,2.0,4.5,4.5,3.5,4.0,4.5,Mean of Rater A and Rater B
+1137,91,Qwen2.5-7B,5.0,5.0,4.5,2.5,3.0,2.5,Mean of Rater A and Rater B
+1138,92,Qwen2.5-7B,5.0,5.0,5.0,3.5,5.0,4.0,Mean of Rater A and Rater B
+1139,93,Qwen2.5-7B,3.5,4.0,3.0,3.5,3.0,4.0,Mean of Rater A and Rater B
+1140,94,Qwen2.5-7B,3.0,3.5,2.5,2.5,2.0,3.5,Mean of Rater A and Rater B
+1141,0,gemma-2,5.0,5.0,3.0,2.5,3.5,3.5,Mean of Rater A and Rater B
+1142,1,gemma-2,3.5,4.0,3.0,3.0,3.5,3.5,Mean of Rater A and Rater B
+1143,4,gemma-2,5.0,3.0,3.5,3.0,2.5,3.5,Mean of Rater A and Rater B
+1144,5,gemma-2,5.0,5.0,5.0,4.5,4.5,5.0,Mean of Rater A and Rater B
+1145,6,gemma-2,5.0,5.0,4.5,3.5,4.5,4.0,Mean of Rater A and Rater B
+1146,9,gemma-2,4.5,4.5,4.5,3.0,4.0,2.5,Mean of Rater A and Rater B
+1147,10,gemma-2,5.0,5.0,2.5,3.0,4.0,3.5,Mean of Rater A and Rater B
+1148,13,gemma-2,5.0,5.0,4.5,4.5,5.0,4.5,Mean of Rater A and Rater B
+1149,14,gemma-2,5.0,5.0,4.5,3.5,3.5,3.5,Mean of Rater A and Rater B
+1150,17,gemma-2,5.0,4.5,4.5,4.0,4.5,3.5,Mean of Rater A and Rater B
+1151,18,gemma-2,5.0,5.0,4.5,5.0,4.5,5.0,Mean of Rater A and Rater B
+1152,19,gemma-2,5.0,5.0,4.5,4.5,5.0,4.5,Mean of Rater A and Rater B
+1153,22,gemma-2,5.0,4.0,4.0,3.5,3.0,4.0,Mean of Rater A and Rater B
+1154,23,gemma-2,3.0,5.0,4.5,3.5,4.0,3.5,Mean of Rater A and Rater B
+1155,26,gemma-2,4.5,3.0,4.0,4.5,3.0,3.0,Mean of Rater A and Rater B
+1156,27,gemma-2,5.0,5.0,4.5,3.5,4.0,4.5,Mean of Rater A and Rater B
+1157,30,gemma-2,5.0,4.0,4.0,3.0,4.0,4.0,Mean of Rater A and Rater B
+1158,32,gemma-2,5.0,3.5,4.5,4.0,5.0,4.5,Mean of Rater A and Rater B
+1159,34,gemma-2,4.5,4.5,4.5,3.5,4.0,4.5,Mean of Rater A and Rater B
+1160,35,gemma-2,5.0,4.0,2.5,3.0,3.0,3.5,Mean of Rater A and Rater B
+1161,36,gemma-2,4.5,4.5,4.5,3.0,4.5,4.5,Mean of Rater A and Rater B
+1162,40,gemma-2,5.0,5.0,4.5,4.0,4.0,5.0,Mean of Rater A and Rater B
+1163,44,gemma-2,5.0,5.0,4.5,4.5,5.0,4.0,Mean of Rater A and Rater B
+1164,49,gemma-2,4.5,4.5,4.5,3.0,3.5,3.0,Mean of Rater A and Rater B
+1165,51,gemma-2,5.0,5.0,5.0,4.5,4.5,5.0,Mean of Rater A and Rater B
+1166,53,gemma-2,5.0,5.0,4.5,4.5,5.0,5.0,Mean of Rater A and Rater B
+1167,56,gemma-2,4.5,5.0,4.5,5.0,4.5,4.5,Mean of Rater A and Rater B
+1168,59,gemma-2,5.0,4.5,5.0,4.0,3.5,4.0,Mean of Rater A and Rater B
+1169,62,gemma-2,5.0,4.5,5.0,4.5,4.5,4.0,Mean of Rater A and Rater B
+1170,63,gemma-2,5.0,5.0,4.5,3.0,5.0,3.5,Mean of Rater A and Rater B
+1171,65,gemma-2,3.5,4.0,3.5,3.5,4.0,4.0,Mean of Rater A and Rater B
+1172,67,gemma-2,5.0,5.0,4.5,4.5,4.0,4.0,Mean of Rater A and Rater B
+1173,69,gemma-2,5.0,4.5,4.5,3.0,4.0,3.5,Mean of Rater A and Rater B
+1174,80,gemma-2,5.0,5.0,4.5,3.5,4.5,4.0,Mean of Rater A and Rater B
+1175,81,gemma-2,5.0,5.0,4.5,3.0,4.5,4.0,Mean of Rater A and Rater B
+1176,87,gemma-2,4.5,4.5,4.0,3.5,4.0,4.0,Mean of Rater A and Rater B
+1177,89,gemma-2,5.0,4.5,4.0,4.0,3.5,4.5,Mean of Rater A and Rater B
+1178,91,gemma-2,5.0,4.5,4.5,3.5,4.5,4.0,Mean of Rater A and Rater B
+1179,92,gemma-2,5.0,5.0,5.0,4.5,4.5,4.0,Mean of Rater A and Rater B
+1180,93,gemma-2,5.0,4.0,3.5,3.5,3.0,4.0,Mean of Rater A and Rater B
+1181,94,gemma-2,4.5,4.5,4.5,3.5,4.0,4.5,Mean of Rater A and Rater B
+1182,0,Falcon3-7B,5.0,5.0,4.5,4.0,4.5,4.0,Mean of Rater A and Rater B
+1183,1,Falcon3-7B,4.5,3.5,3.0,3.5,3.5,4.5,Mean of Rater A and Rater B
+1184,4,Falcon3-7B,5.0,4.0,3.0,3.0,3.5,3.5,Mean of Rater A and Rater B
+1185,5,Falcon3-7B,3.0,5.0,4.5,4.0,5.0,4.0,Mean of Rater A and Rater B
+1186,6,Falcon3-7B,5.0,5.0,4.5,4.5,5.0,4.0,Mean of Rater A and Rater B
+1187,9,Falcon3-7B,5.0,3.5,2.5,2.5,2.5,3.0,Mean of Rater A and Rater B
+1188,10,Falcon3-7B,5.0,4.5,3.5,3.0,4.5,4.0,Mean of Rater A and Rater B
+1189,13,Falcon3-7B,4.0,4.5,4.5,4.0,3.5,4.0,Mean of Rater A and Rater B
+1190,14,Falcon3-7B,4.5,4.5,4.5,3.5,3.5,3.5,Mean of Rater A and Rater B
+1191,17,Falcon3-7B,5.0,4.5,2.0,2.5,2.5,3.5,Mean of Rater A and Rater B
+1192,18,Falcon3-7B,5.0,5.0,4.5,3.5,3.5,3.5,Mean of Rater A and Rater B
+1193,19,Falcon3-7B,5.0,5.0,3.0,3.5,3.0,4.5,Mean of Rater A and Rater B
+1194,22,Falcon3-7B,5.0,4.5,4.5,3.0,3.5,3.0,Mean of Rater A and Rater B
+1195,23,Falcon3-7B,5.0,5.0,4.0,4.5,4.0,4.5,Mean of Rater A and Rater B
+1196,26,Falcon3-7B,4.5,3.5,2.5,3.0,3.5,3.0,Mean of Rater A and Rater B
+1197,27,Falcon3-7B,4.5,4.5,4.0,2.5,3.5,4.0,Mean of Rater A and Rater B
+1198,30,Falcon3-7B,4.5,5.0,4.5,4.5,4.0,5.0,Mean of Rater A and Rater B
+1199,32,Falcon3-7B,5.0,4.0,3.0,2.5,4.5,2.5,Mean of Rater A and Rater B
+1200,34,Falcon3-7B,4.5,4.5,4.5,4.0,4.0,5.0,Mean of Rater A and Rater B
+1201,35,Falcon3-7B,4.0,4.5,3.0,3.0,3.0,4.0,Mean of Rater A and Rater B
+1202,36,Falcon3-7B,4.5,4.5,4.5,3.5,4.5,4.5,Mean of Rater A and Rater B
+1203,40,Falcon3-7B,5.0,4.5,2.5,3.0,4.5,4.5,Mean of Rater A and Rater B
+1204,44,Falcon3-7B,5.0,5.0,2.5,3.0,4.5,4.5,Mean of Rater A and Rater B
+1205,49,Falcon3-7B,2.0,4.5,2.0,1.5,2.0,2.5,Mean of Rater A and Rater B
+1206,51,Falcon3-7B,4.5,4.5,3.0,3.0,4.5,4.0,Mean of Rater A and Rater B
+1207,53,Falcon3-7B,5.0,5.0,3.0,3.5,4.5,3.5,Mean of Rater A and Rater B
+1208,56,Falcon3-7B,5.0,3.5,4.0,4.0,3.5,4.5,Mean of Rater A and Rater B
+1209,59,Falcon3-7B,2.5,3.5,2.5,3.0,2.5,4.0,Mean of Rater A and Rater B
+1210,62,Falcon3-7B,4.0,4.5,4.5,3.0,4.5,3.5,Mean of Rater A and Rater B
+1211,63,Falcon3-7B,4.5,4.5,4.5,2.5,3.5,3.5,Mean of Rater A and Rater B
+1212,65,Falcon3-7B,5.0,5.0,3.0,3.5,2.5,5.0,Mean of Rater A and Rater B
+1213,67,Falcon3-7B,5.0,5.0,4.5,4.5,4.5,5.0,Mean of Rater A and Rater B
+1214,69,Falcon3-7B,4.5,4.5,4.0,3.0,3.5,4.0,Mean of Rater A and Rater B
+1215,80,Falcon3-7B,5.0,4.0,3.5,3.5,4.0,4.0,Mean of Rater A and Rater B
+1216,81,Falcon3-7B,5.0,5.0,4.5,3.0,3.5,4.0,Mean of Rater A and Rater B
+1217,87,Falcon3-7B,4.0,4.5,4.5,4.5,4.0,4.0,Mean of Rater A and Rater B
+1218,89,Falcon3-7B,3.5,4.5,2.5,2.5,3.0,2.5,Mean of Rater A and Rater B
+1219,91,Falcon3-7B,4.5,5.0,4.0,3.5,4.0,3.0,Mean of Rater A and Rater B
+1220,92,Falcon3-7B,5.0,4.0,2.5,3.5,3.0,4.0,Mean of Rater A and Rater B
+1221,93,Falcon3-7B,3.5,5.0,2.5,3.5,3.0,5.0,Mean of Rater A and Rater B
+1222,94,Falcon3-7B,3.5,4.0,2.5,2.5,3.0,4.0,Mean of Rater A and Rater B

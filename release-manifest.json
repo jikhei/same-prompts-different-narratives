@@ -1,0 +1,48 @@
+{
+  "dataset_counts": {
+    "anonymized_new_ratings": 246,
+    "generated_candidates": 369,
+    "hanna_subset": 105,
+    "stories": 228
+  },
+  "hanna_source": {
+    "commit": "282f27536a5d05ad4ce14298abcd70c45668fed2",
+    "url": "https://raw.githubusercontent.com/dig-team/hanna-benchmark-asg/282f27536a5d05ad4ce14298abcd70c45668fed2/hanna_stories_annotations.csv"
+  },
+  "sha256": {
+    "ENVIRONMENT.md": "c479fcdd1e3c91076e6647f5138f4bebff5a17eb05a8ce44ad8ecef017eeb92c",
+    "LICENSE": "13c868af36c443c66427b7164e6a4d410b5c91a905bc5fba9708d5242dd0333a",
+    "Makefile": "085265373d9f1c2186494314547fc2761cb785be99bbcf8c884f6893368b8111",
+    "README.md": "bb621754c84cdfe32e288f17b69c9e50dd264f3867d9828c62267ddc60f49762",
+    "THIRD_PARTY_NOTICES.md": "b8cf84251ec8a12126062e797e7e0c8b74f101940433fb93e41811b7202008db",
+    "data/DATA_DICTIONARY.md": "7f15090958ca638ae8b96c38cb6326c88de4b379ad914a3a378fc090636849cf",
+    "data/external/hanna_mean_scores.csv": "6a4930ca0abb6e993adfd0f5ad23bd11c1f198bc88d38a6714d1b0446d232072",
+    "data/external/hanna_subset.csv": "f372dfc4edbf142daeee22cd6daeb8391ff1dd919990e41c000a041877e559e7",
+    "data/metrics/metrics_raw.csv": "2b16d377718cb226b2c294b35773348c9413eaead0eed4f9eb726cfd7eb17099",
+    "data/metrics/metrics_standardized.csv": "c9db0c747acd02878110aa64c370d60b63d38be16f046ff452381b859c618311",
+    "data/metrics/scores_standardized.csv": "ddabaa9445b63b90482f61b9dbefb764ebd80ae051836b6fd02ade603e7590d3",
+    "data/processed/candidate_selection.csv": "a28718fd6e571eb7a77f8d94eff03c7b9e86063f833f8f0e9e156056ca4b10ad",
+    "data/processed/stories.csv": "8b88eca0243ea4a64a41b2634a9dfc7ca6999cc50a89a104cec1f0bd7fe866a7",
+    "data/ratings/final_scores.csv": "5496b8882c05fb2eef4f36ada2c889c79d2e060af379630ee598d2c75d2e40bf",
+    "data/ratings/ratings_anonymized.csv": "d01753e80e486eb4a983c9705006e694ed88fbdb26470e3f4cf1687eb217d2d1",
+    "data/raw/generated_candidates.csv": "4d09eab86fd433427c49c15f564f70de7dc6e7ac4d91b2d62e0c206f238e1345",
+    "figures/01.svg": "4e06cc2d17b38be159488fd96c6a24ae8d0d4ca3163d05cedced8357292e60f4",
+    "figures/02.svg": "af8ad8daa626085e065b1eec37b19f7e89374d1ec32165ece6d82bd4f11d6c64",
+    "figures/03.svg": "b1454433af21d7e730d9ae4ffcefe7cc099466423784e2a22b1e370a10b894a0",
+    "figures/04.svg": "8385d6a028705769b1767b90963a6b0b5464e44117a27bbd9b6802c0d62a567a",
+    "figures/coef-01.svg": "7cd3d6ce3413b2578a2aceb42680cd7497c375b695c93a21504bf7d3043723b1",
+    "figures/coef-02.svg": "c92965b5ef42989e3258649ab8e771ee6878d36a8313dbb93565ed735e1f73f9",
+    "figures/lda-01.svg": "dbfe31d0b98bd4e39d506975b745163c730e043e3b22b1d398fb72ccbbde780f",
+    "figures/lda-02.svg": "495d57318967d255f1028da84167e3e9b4a47b2e9a1ae8aa523d88dcfbb7d2a6",
+    "notebooks/analysis.ipynb": "c4c4c0ca70b29c5865dded63b231afc5a47ce4f2817516c7a1c7976685193f2d",
+    "notebooks/compute_metrics.ipynb": "32f58511dba02ecdddbc083452a3c4572ef754d006e25ae07d7c5e1202979038",
+    "notebooks/generate_stories_colab.ipynb": "15620965435aad0f1ffcb94e79f38c90b5a9f5f238331a109ccb76c75cc5fd18",
+    "requirements.txt": "a8a544c7df4fdf7b91c4be12924cad8683ad05e3a7f9e922da7f1dd6e6d1deaa",
+    "scripts/mixed_effects.R": "d7e601f506fbd9df66ff67edaf3e358d9115cabd8b5a1306384470f575ce2ffb",
+    "scripts/prepare_data.py": "e9b37b4e3a83a563bcd1107970961cd1a776c407a8bb15144642e5c764fb2d68",
+    "scripts/prepare_scores.py": "5d7de22fc0488c92a16c8c603b889b39238606fc5f673d4a968a9341385bc720",
+    "scripts/reproduce.py": "239c211664ec504ccdacf6202db1928b8a556cda7772a655487bb0d93cb0bfbb",
+    "scripts/verify_release.py": "2460e239d1d02a0b72fad39c9071a3045f84d32bb38633e1ac89a3fccc0dffe6"
+  },
+  "title": "Same prompts, different narratives"
+}
